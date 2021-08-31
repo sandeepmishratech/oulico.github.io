@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-remote_theme: zivhub/monophase
+remote_theme: oulico/oulico.github.io
 title: Oulico's Cheat Sheet
 email: manemis@gmail.com
 description: python, CSS, HTML, JavaScript and so on
