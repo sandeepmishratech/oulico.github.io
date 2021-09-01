@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-
+gem "monophase"
 gem "jekyll", "~> 3.9"
 gem "jekyll-feed", "~> 0.15"
 gem "jekyll-paginate", "~> 1.1"

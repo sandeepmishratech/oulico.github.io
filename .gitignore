@@ -1,5 +1,6 @@
-_site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+README.md
+screenshot-dark.png
