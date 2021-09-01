@@ -30,7 +30,7 @@ twitter_username:
 github_username: oulico
 
 # Build settings
-theme: monophase
+remote_theme: zivhub/monophase
 plugins:
   - jekyll
   - jekyll-feed
