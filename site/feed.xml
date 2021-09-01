@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-09-01T01:23:45+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Oulico’s Cheat Sheet</title><subtitle>python, CSS, HTML, JavaScript and so on</subtitle><author><name>oulico</name><email>manemis@gmail.com</email></author><entry><title type="html">How to use markdown</title><link href="http://localhost:4000/cheatsheet/2021/08/31/how-to-use-markdown.html" rel="alternate" type="text/html" title="How to use markdown" /><published>2021-08-31T16:04:50+02:00</published><updated>2021-08-31T16:04:50+02:00</updated><id>http://localhost:4000/cheatsheet/2021/08/31/how-to-use-markdown</id><content type="html" xml:base="http://localhost:4000/cheatsheet/2021/08/31/how-to-use-markdown.html">&lt;p&gt;Let’s learn basic &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Markdown&lt;/code&gt; syntax&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Index
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#what-is-markdown&quot;&gt;What is Markdown?&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#why-markdown&quot;&gt;Why Markdown?&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#which-editor-should-i-use&quot;&gt;Which editor should I use?&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#basic-markdown-syntax&quot;&gt;Basic Markdown Syntax&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-markdown&quot;&gt;What is Markdown?&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Markdown&lt;/code&gt; is a &lt;a href=&quot;https://en.wikipedia.org/wiki/Lightweight_markup_language&quot;&gt;lightweight markup language&lt;/a&gt; for creating &lt;a href=&quot;https://en.wikipedia.org/wiki/Formatted_text&quot;&gt;formatted text&lt;/a&gt; using a &lt;a href=&quot;https://en.wikipedia.org/wiki/Text_editor&quot;&gt;plain-text editor&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;why-markdown&quot;&gt;Why Markdown?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;For web writing&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;You can perfectly convert your text in HTML. It’s light weight and that make it easy to storage.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;For every software&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Since this is a plain text format, it is usable and openable in any devices, and OS. It has only one filetype (unlike MSWord or any other word processors), so software doesn’t need to keep up with the format.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Simple but powerful enough&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Easy to add text modifiers like lists, bold, italics, etc. And you can insert tables too.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;For productive writing&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Markdown is easy and simple to learn and use than HTML or any other web programming language. For exemple, with Markdown language, you don’t need to close every tags like you do with HTML.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;For version management&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Since it is plain text, it’s easy to manage versions through &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Git&lt;/code&gt; .&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;which-editor-should-i-use&quot;&gt;Which editor should I use?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://prose.io/&quot;&gt;&lt;strong&gt;Prose.io&lt;/strong&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;A web-based interface.&lt;/li&gt;
+      &lt;li&gt;You can create, edit, delete files, and save the changes &lt;strong&gt;directly&lt;/strong&gt; to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;GitHub&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;It has advanced support for &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Jekyll&lt;/code&gt;&lt;/a&gt; sites&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackedit.io/&quot;&gt;&lt;strong&gt;StackEdit&lt;/strong&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;You can sync in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;GoogleDrive&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Git&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Tumblr&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;You can collaborate with your colleagues at the same time.&lt;/li&gt;
+      &lt;li&gt;support for mathematical expressions, diagrams, scores, Emojis.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.markdownpad.com/&quot;&gt;&lt;strong&gt;MarkdownPad&lt;/strong&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;You can download from the link (free version and pro version)&lt;/li&gt;
+      &lt;li&gt;You can use it off-line&lt;/li&gt;
+      &lt;li&gt;for Windows&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://macdown.uranusjr.com/&quot;&gt;MacDown(for MAC)&lt;/a&gt;&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Opensource&lt;/li&gt;
+      &lt;li&gt;Highly customisable Markdown rendering&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://typora.io&quot;&gt;&lt;strong&gt;Typora(for Mac)&lt;/strong&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Minimal design&lt;/li&gt;
+      &lt;li&gt;Seamless live preview&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;basic-markdown-syntax&quot;&gt;Basic Markdown Syntax&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Type the lines in the codeblocs one by one with your editor to learn. You’ll see the simplicity and usefulness of Markdown.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;[Step1] &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Headings&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;To create a heading, add number signs (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#&lt;/code&gt;) in front of a word or phrase. The number of number signs you use should correspond to the heading level.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gh&quot;&gt;# Heading level 1&lt;/span&gt;
+
+&lt;span class=&quot;gu&quot;&gt;## Heading level 2&lt;/span&gt;
+
+&lt;span class=&quot;gu&quot;&gt;### Heading level 3&lt;/span&gt;
+
+&lt;span class=&quot;gu&quot;&gt;#### Heading level 4&lt;/span&gt;
+
+&lt;span class=&quot;gu&quot;&gt;##### Heading level 5&lt;/span&gt;
+
+&lt;span class=&quot;gu&quot;&gt;###### Heading level 6&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Renderd output:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;heading-level-1&quot;&gt;Heading level 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;heading-level-2&quot;&gt;Heading level 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;heading-level-3&quot;&gt;Heading level 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;heading-level-4&quot;&gt;Heading level 4&lt;/h4&gt;
+
+&lt;h5 id=&quot;heading-level-5&quot;&gt;Heading level 5&lt;/h5&gt;
+
+&lt;h6 id=&quot;heading-level-6&quot;&gt;Heading level 6&lt;/h6&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;[Step 2] &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Horizontal Rules&lt;/code&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-mark&quot;&gt;---
+***
+___
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Renderd output:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;[Step 3] &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Line Break&lt;/code&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-mark&quot;&gt;put &amp;lt;br&amp;gt;to break line
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Renderd output:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;put &lt;br /&gt;to break lines&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;[Step 4]&lt;/strong&gt; **&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;List&lt;/code&gt; **&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-mark&quot;&gt;Ordered List
+1. First
+1. Second
+1. Third
+
+Undordered List
++ Unordered
+  - A
+    * B
+      + C
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Renderd output:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ordered List&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;First&lt;/li&gt;
+  &lt;li&gt;Second&lt;/li&gt;
+  &lt;li&gt;Third&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Undordered List&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Unordered
+    &lt;ul&gt;
+      &lt;li&gt;A
+        &lt;ul&gt;
+          &lt;li&gt;B
+            &lt;ul&gt;
+              &lt;li&gt;C&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;[Step 5] &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Emphasis&lt;/code&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gs&quot;&gt;**Bold**&lt;/span&gt;
+&lt;span class=&quot;ge&quot;&gt;_Italic_&lt;/span&gt;
+~~strikethrough~~
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;u&amp;gt;&lt;/span&gt;underline&lt;span class=&quot;nt&quot;&gt;&amp;lt;/u&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;gs&quot;&gt;**BOLD*italic*BOLD AGAIN**&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Renderd output:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bold&lt;/strong&gt;
+&lt;em&gt;Italic&lt;/em&gt;
+&lt;del&gt;strikethrough&lt;/del&gt;
+&lt;u&gt;underline&lt;/u&gt;
+&lt;strong&gt;BOLD&lt;em&gt;italic&lt;/em&gt;BOLD AGAIN&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;[Step 6] &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Blockquote&lt;/code&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gt&quot;&gt;&amp;gt; Dorothy followed her through many of the beautiful rooms in her castle.&lt;/span&gt;
+&lt;span class=&quot;gt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;gt&quot;&gt;&amp;gt; &amp;gt; The Witch bade her clean the pots and kettles&lt;/span&gt;
+&lt;span class=&quot;gt&quot;&gt;&amp;gt; &amp;gt;&lt;/span&gt;
+&lt;span class=&quot;gt&quot;&gt;&amp;gt; &amp;gt; &amp;gt; and sweep the floor and keep the fire fed with wood.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Renderd output:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Dorothy followed her through many of the beautiful rooms in her castle.&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;The Witch bade her clean the pots and kettles&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;and sweep the floor and keep the fire fed with wood.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;[Step 7] &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Link&lt;/code&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language- &quot;&gt;Type1(To create a link in `Link text`) : [Google](https://google.com &quot;tooltip when you hover over&quot;)
+Type2(To create a link exposing the URL) : &amp;lt;https://theorydb.github.io&amp;gt;
+Type3(a link to a paragraprh in the article) : [Markdown Syntax 1 (Basic)](#markdown-syntax-1-basic)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;[Step 8] &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Image)&lt;/code&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Type1(insert an &lt;span class=&quot;sb&quot;&gt;`image`&lt;/span&gt;) :
+&lt;span class=&quot;p&quot;&gt;![&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Image&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;https://oulico.github.io/assets/img/2021-08-31-how-to-use-markdown/cat.jpeg&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;&quot;cat&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+Type2(If you want to&lt;span class=&quot;sb&quot;&gt;`change the size`&lt;/span&gt;, use HTML tag) :
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://oulico.github.io/assets/img/2021-08-31-how-to-use-markdown/cat.jpeg&quot;&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;cat&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;300&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;200&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+
+Type3 (to make a &lt;span class=&quot;sb&quot;&gt;`link in image`&lt;/span&gt; ) :
+&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;![Image&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;https://oulico.github.io/assets/img/2021-08-31-how-to-use-markdown/cat.jpeg&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;&quot;cat&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;](https://en.wikipedia.org/wiki/Cat)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Type1(insert an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image&lt;/code&gt;) :
+&lt;img src=&quot;https://oulico.github.io/assets/img/2021-08-31-how-to-use-markdown/cat.jpeg&quot; alt=&quot;Image&quot; title=&quot;cat&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Type2(If you want to&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;change the size&lt;/code&gt;, use HTML tag) :
+&amp;lt;img src=”https://oulico.github.io/assets/img/2021-08-31-how-to-use-markdown/cat.jpeg” “cat” width=”300” height=”200”&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Type3 (to make a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;link in image&lt;/code&gt; ) :
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Cat&quot;&gt;&lt;img src=&quot;https://oulico.github.io/assets/img/2021-08-31-how-to-use-markdown/cat.jpeg&quot; alt=&quot;Image&quot; title=&quot;cat&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>oulico</name><email>manemis@gmail.com</email></author><category term="cheatsheet" /><category term="web," /><category term="blog," /><category term="markdown" /><summary type="html">Let’s learn basic Markdown syntax</summary></entry></feed>
