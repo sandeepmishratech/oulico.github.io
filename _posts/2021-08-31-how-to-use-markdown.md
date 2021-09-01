@@ -229,7 +229,7 @@ Type1(insert an `image`) :
 ![Image](https://oulico.github.io/assets/img/2021-08-31-how-to-use-markdown/cat.jpeg "cat")
 
 Type2(If you want to`change the size`, use HTML tag) :
-<img src="https://oulico.github.io/assets/img/2021-08-31-how-to-use-markdown/cat.jpeg" "cat" width="300" height="200">
+<img src="https://oulico.github.io/assets/img/2021-08-31-how-to-use-markdown/cat.jpeg" width="300" height="200">
 
 Type3 (to make a `link in image` ) :
 [![Image](https://oulico.github.io/assets/img/2021-08-31-how-to-use-markdown/cat.jpeg "cat")](https://en.wikipedia.org/wiki/Cat)
