@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Notes: Introduction of JavaScript"
@@ -8,7 +7,7 @@ tags: Notes, JavaScript
 ---
 
 
-Brief introduction of JavaScript
+Brief introduction of JavaScript!
 
 ### Language fundamentals of JS
 
