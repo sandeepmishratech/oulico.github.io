@@ -3,7 +3,7 @@
 layout: post
 title: "Notes: Introduction of JavaScript"
 date: 2021-09-01 16:04:50 +0200
-categories: Notes: JavaScript
+categories: Notes-JavaScript
 tags: Notes, JavaScript
 ---
 
@@ -36,7 +36,7 @@ you'll see a pop-up message with "JS is FUN" on it.
 
 - High-level language means: it is friendly language to humans. You don't need to think about the complex things like the computer's memories while it runs or program. So in JS, there are a lot of abstractions over all these small details that we don't want to worry about.
 - Object oriented means:  the language is based on the concept of objects for storing most kinds of data.
-- Multi-paradigm language: meaning that it's so flexible and versatile, that we can use all kinds of different programming styles, such as [`imperative` and `declarative programming`](http://oulico.github.io/basic-knowledge/2021/09/01/programming_paradigm.html). These are different ways of structuring the code.
+- Multi-paradigm language: meaning that it's so flexible and versatile, that we can use all kinds of different programming styles, such as [`imperative` and `declarative programming`](http://oulico.github.io/basic_knowledge/2021/09/01/programming_paradigm.html). These are different ways of structuring the code.
 
 ---
 

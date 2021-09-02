@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The difference between 'declarative' vs 'imperative' in programming"
-date: 2021-09-01 13:47:50 +0200
-categories: Basic knowledge
+date: 2021-09-01 14:01:00 +0200
+categories: Basic_knowledge
 ---
 
 # The difference between "declarative" vs "imperative" in programming
