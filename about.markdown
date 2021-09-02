@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Magni laboriosam et quas quis debitis nihil mollitia ratione. Sit ipsam maxime suscipit repudiandae. Quidem numquam harum consequatur voluptas repellat fuga repellendus. Libero sit cumque praesentium enim quas.
-
-Ducimus minus iusto aspernatur quaerat quam quisquam provident quos. Tenetur natus illum voluptatem expedita asperiores omnis ut. Ut sint optio et animi consequatur corrupti corrupti. Eius inventore eum qui reiciendis id et similique. Totam voluptas sit eligendi.
-
-Possimus omnis occaecati laboriosam minus sint exercitationem eum aliquid. Neque earum id voluptatum delectus magni inventore corrupti iusto. Voluptas sequi odio quo laudantium officia. Quo odio accusamus voluptatem cupiditate expedita fuga. Sit dolorem eligendi quia aut ut dolorem vero. Dicta iste eum facere magnam ipsum.
+Hello, <br>
+World. <br>
+This blog is where I post the things I studied and things in which I'm interested. (like, linguistics, etc.) <br>
+The name, OuLiCo stands for "Ouvroir de Linguistique et Coding" which is an homage to "OuLiPo(Ouvroir de Littérature Potentielle)", the french literature group in France. This group's consisted of a lot of mathematicians and scientists. They have done marvelous work with logic and literature. Coding also could be a kind of jolly literature with logical thinking in it, I guess. So I made OuLiCo as my username for this blog, hoping I could learn and enjoy linguistics and coding :) (phew, TMI?)<br> 
+Anyway, Nice to meet you. B-Y-E
