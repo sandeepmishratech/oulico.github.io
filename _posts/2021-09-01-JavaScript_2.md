@@ -2,8 +2,8 @@
 layout: post
 title: "Notes: JavaScript_2"
 date: 2021-09-01 16:28:07 +0200
-categories: 번역
-Tags: Korean, JavaScript, Translation
+categories: Notes-JavaScript
+tags: Notes, JavaScript
 ---
 
 
