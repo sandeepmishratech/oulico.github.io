@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "diffrence between let and const in JavaScript"
+title: "Notes_The diffrence between let and const in JavaScript"
 date: 2021-09-02 11:35:50 +0200
 categories: Notes-JavaScript
 tags: Notes, JavaScript, variable

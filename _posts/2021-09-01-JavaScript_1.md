@@ -90,7 +90,7 @@ You can use JS to create Native mobile applications (`React`, `Ionic`), and desk
 
 
 
-![image-20210902113548458](/Users/jhl/workplace/oulico.github.io/assets/img/2021-09-01-JavaScript_1/image-20210902113548458.png)
+![image-20210902113548458](/assets/img/2021-09-01-JavaScript_1/image-20210902113548458.png)
 
 
 

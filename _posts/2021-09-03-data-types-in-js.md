@@ -158,7 +158,7 @@ I recommend you to use this type */
 
 
 
-![comment2](assets/img/2021-09-03-data-types-in-js/comment2.jpg)
+![comment2](/assets/img/2021-09-03-data-types-in-js/comment2.jpg)
 
 
 
@@ -182,7 +182,7 @@ console.log(typeof jsIsFun);
 
 Result in console:
 
-![image-20210903104407359](/Users/jhl/workplace/oulico.github.io/assets/img/2021-09-03-data-types-in-js/image-20210903104407359.png)
+![image-20210903104407359](/assets/img/2021-09-03-data-types-in-js/image-20210903104407359.png)
 
 As you can see here, you can assign a value which has another type of data very simply.
 
