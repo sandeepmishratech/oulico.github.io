@@ -1,10 +1,10 @@
-```
+---
 layout: post
 title: "Type Conversion and Coersion"
 date: 2021-09-05 17:11:20 +0200
 categories: Notes-JavaScript
 tags: Notes JavaScript Data-type
-```
+---
 
 
 
