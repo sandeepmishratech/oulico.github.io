@@ -34,7 +34,7 @@ console.log(typeof Number(inputYear));
 
 Result:
 
-![Screen Shot 2021-09-05 at 11.25.06 AM](../assets/img/2021-09-05-type-conversion-and-coersion/Screen Shot 2021-09-05 at 11.25.06 AM.png)
+![Screen Shot 2021-09-05 at 11.25.06 AM](/assets/img/2021-09-05-type-conversion-and-coersion/Screen Shot 2021-09-05 at 11.25.06 AM.png)
 
 ⚠︎Remember that you need to start with a **capital letter**! (i.e. Number)
 
@@ -74,7 +74,7 @@ console.log('I am ' + 23 + " year's old")
 
 Result:
 
-![image-20210905114532293](../assets/img/2021-09-05-type-conversion-and-coersion/image-20210905114532293.png)
+![image-20210905114532293](/assets/img/2021-09-05-type-conversion-and-coersion/image-20210905114532293.png)
 
 Even though I didn't convert the data type of `23` from number to strings, it's converted itself and concatenate the strings; `I am`, `23`, and `year's old`.  
 
@@ -112,7 +112,7 @@ console.log('10'+10+'10');
 
 Result:
 
-![image-20210905120248727](../assets/img/2021-09-05-type-conversion-and-coersion/image-20210905120248727.png)
+![image-20210905120248727](/assets/img/2021-09-05-type-conversion-and-coersion/image-20210905120248727.png)
 
 
 
