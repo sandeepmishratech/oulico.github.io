@@ -57,7 +57,7 @@ console.log(typeof String(inputYear));
 
 Result:
 
-![image-20210905113714819](../assets/img/2021-09-05-type-conversion-and-coersion/image-20210905113714819.png)
+![image-20210905113714819](/assets/img/2021-09-05-type-conversion-and-coersion/image-20210905113714819.png)
 
 ⚠︎Remember that you need to start with a **capital letter**! (i.e. Number)
 
