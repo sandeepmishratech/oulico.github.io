@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Notes: DataType in Javascript"
+title: "Notes: DataTypes in Javascript"
 date: 2021-09-01 16:04:50 +0200
 categories: Notes-JavaScript
-tags: Notes, JavaScript, DataType
+tags: Notes JavaScript DataType
 ---
 
 Data Types in JS!

@@ -3,7 +3,7 @@ layout: post
 title: "Notes: Introduction of JavaScript"
 date: 2021-09-01 16:04:50 +0200
 categories: Notes-JavaScript
-tags: Notes, JavaScript
+tags: Notes JavaScript
 ---
 
 

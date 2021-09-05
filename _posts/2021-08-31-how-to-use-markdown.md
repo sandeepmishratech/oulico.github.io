@@ -3,7 +3,7 @@ layout: post
 title: "How to use markdown"
 date: 2021-08-31 16:04:50 +0200
 categories: cheatsheet
-tags: web, blog, markdown
+tags: web blog markdown
 ---
 
 Let's learn basic `Markdown` syntax

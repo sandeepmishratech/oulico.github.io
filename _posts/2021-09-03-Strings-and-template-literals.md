@@ -3,14 +3,14 @@ layout: post
 title: "Strings and template literals in JavaScript"
 date: 2021-09-03 16:31:20 +0200
 categories: Notes-JavaScript
-tags: Notes, JavaScript, string
+tags: Notes JavaScript string
 ---
 
 Let's learn how to write **strings** in JavaScript.
 
 
 
-### 1. 
+### 1. Strings
 
 ``` js
 const firstName = Oulico;
@@ -31,7 +31,7 @@ So I recommend to use **backtick (`)**.
 
 
 
-### 2.
+### 2. Template literal
 
 ``` js
 const oulicoNew = `I'm ${firstName}, a  ${thisYear - birthYear} years old ${job}!`
@@ -41,7 +41,7 @@ Or, you can do like this.
 
 
 
-### 3.
+### 3. Multiple line string
 
 ```js
 console.log(`multiple
@@ -51,7 +51,7 @@ strings`)
 
 
 
-To write multiple lines, you can simply seperate the lines just like that.
+To write multiple lines, you can simply seperate the lines just like that (just hit the enter key).
 
 But you should only use **backtick(`)**, or it doesn't work.
 
