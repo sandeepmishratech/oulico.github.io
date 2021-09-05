@@ -1,10 +1,10 @@
-```
+---
 layout: post
 title: "Operators in JavaScript"
 date: 2021-09-04 16:31:20 +0200
 categories: Notes-JavaScript
 tags: Notes JavaScript operator
-```
+---
 
 Operators in Javascript
 
