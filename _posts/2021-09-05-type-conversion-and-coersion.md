@@ -8,11 +8,11 @@ tags: Notes JavaScript Data-type
 
 
 
-Type conversion and coersion is this.
+Type conversion and coersion is this:
 
-> Type conversion : when we convert manually from one type to another.
++ Type conversion : when we convert manually from one type to another.
 
-> Type coersion : when JS converts types automatically.
++ Type coersion : when JS converts types automatically.
 
 
 
@@ -99,7 +99,7 @@ console.log('10'-10-'10');
 
 Result: 
 
-![image-20210905120006899](../assets/img/2021-09-05-type-conversion-and-coersion/image-20210905120006899.png)
+![image-20210905120006899](/assets/img/2021-09-05-type-conversion-and-coersion/image-20210905120006899.png)
 
 It's converted to **numbers**!
 
