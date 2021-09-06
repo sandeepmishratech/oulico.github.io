@@ -54,6 +54,15 @@ If the value of `isOldEnough` is `true`, JavaScript will execute the code inside
 
 else, it'll execute the code inside of `else` block.
 
+### 3. When the if block is just one line
+
+You don't need two curly braces.
+
+```javascript
+if(age === 18) console.log('You just became an adult');
+```
+
+
 
 
 

@@ -20,7 +20,7 @@ Let's take a look with some examples.
 
 
 
-### Type conversion to number
+## Type conversion to number
 
 ```js
 const inputYear = '1991';
@@ -42,7 +42,7 @@ Result:
 
 
 
-### Type conversion to String
+## Type conversion to String
 
 ```js
 const inputYear = 1991;
