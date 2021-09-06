@@ -37,7 +37,7 @@ The difference between `Strict equality operator (===)` and `Loose equality oper
 
 
 
-![image-20210906105953232](/assets/img/2021-09-06-diffrence between '==' and '===' in JavaScript/image-20210906105953232.png)
+![image-20210906105953232](assets/img/2021-09-06-diffrence-between-'=='-and-'==='-in-JavaScript/image-20210906105953232.png)
 
 
 
