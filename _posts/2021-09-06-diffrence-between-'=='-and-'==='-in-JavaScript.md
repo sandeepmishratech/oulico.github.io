@@ -31,7 +31,7 @@ The difference between `Strict equality operator (===)` and `Loose equality oper
 
 
 
-+ `===` doen't perform type coersion,
++ `===` doesn't perform type coersion,
 
 + `==` perform type coersion.
 
