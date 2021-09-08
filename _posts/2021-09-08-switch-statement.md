@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Switch Statement"
+title: "Switch Statement in JavaScript"
 date: 2021-09-08 12:31:20 +0200
 categories: Notes-JavaScript
 tags: Notes JavaScript switch_statement
