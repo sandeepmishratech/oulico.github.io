@@ -14,9 +14,13 @@ In addition to the regular if/else statement and the switch statement, there's o
 
 
 
-### How to write the conditional operator
+## How to write the conditional operator
+
+
 
 The conditional operator allows us to write something similar to an if/else statement but all in one line.
+
+
 
 
 
@@ -29,13 +33,17 @@ age >= 18 ? console.log(`I like to drink wine`) : console.log(`I like to drink w
 
 
 
+
+
 ⚠︎ After `?` you can write a **if** block and after `:` you should write the **else** block (it's <u>mandatory</u>) 
+
+
 
 ---
 
 
 
-#### Distinctive feature of the conditional operator
+## Distinctive feature of the conditional operator
 
 
 
@@ -47,7 +55,7 @@ With this we can make `the ternary operator`
 
 
 
-**Example:**
+#### Example:
 
 `const age = 23;` 
 
@@ -63,7 +71,7 @@ console.log(drink);
 
 
 
-Result: 
+#### Result: 
 
 ![image-20210913180526547](/assets/img/2021-09-13-conditional-ternary-operator/image-20210913180526547.png)
 
@@ -82,11 +90,13 @@ if (age >= 18) {
 console.log(drink);
 ```
 
+
+
 ---
 
 
 
-### Furthermore - with a template literal
+## Furthermore - with a template literal
 
 
 
@@ -94,7 +104,7 @@ Unlike a normal if/else statement, you can **insert the conditional operator** i
 
 
 
-Example:
+#### Example:
 
 ```js
 const age = 23;
