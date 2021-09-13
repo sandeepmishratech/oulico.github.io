@@ -1,11 +1,9 @@
 ---
-
 layout: post
-title: "Diffrence between 'statement' and 'expression' in JavaScript"
-date: 2021-09-13 17290:20 +0200
+title: "Difference between statements and expressions"
+date: 2021-09-13 17:37:50 +0200
 categories: Notes-JavaScript
 tags: Notes JavaScript statement expression
-
 ---
 
 
