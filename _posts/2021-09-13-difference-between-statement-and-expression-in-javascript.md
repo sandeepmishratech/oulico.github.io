@@ -12,41 +12,41 @@ Difference between statements and expressions
 
 
 
-
-
-### Expression 
+## Expression 
 
 > A piece of code that produces a value
 
-#### Examples:
+### Examples:
 
-`3 + 4` 
++ `3 + 4` 
 
-`1991`
++ `1991`
 
-`true && false && !false`
++ `true && false && !false`
 
-`string`
++ `string`
 
 
 
-### Statement
+## Statement
 
 > A bigger piece of code that is executed and which does not produce a value on itself
 
-#### Examples:
+### Examples:
 
-`if/else statement`
++ `if/else statement`
 
-`switch statement`
-
-Normaly whenever something ends with a semicolon, that's a statement.
++ `switch statement`
 
 
 
+Normaly whenever something ends with a `semicolon(;)`, that's a **statement**.
 
 
-### Why is it important to know?
+
+
+
+## Why is it important to know?
 
 JavaScript expects statements and expressions in **different places.**
 
