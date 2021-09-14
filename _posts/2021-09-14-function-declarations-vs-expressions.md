@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Function declarations and function expressions"
-date: 2021-09-13 18:22:50 +0200
+date: 2021-09-13 13:18:50 +0200
 categories: Notes-JavaScript
 tags: Notes JavaScript function
 ---
