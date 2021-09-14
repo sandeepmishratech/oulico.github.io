@@ -18,7 +18,7 @@ age = 31;
 
 ```js
 const birthYear = 1991;
-// birthYear = 1990;
+birthYear = 1990;
 /* you'll get an error:"Uncaught TypeError: Assignment to constant variable."
 Value is not mutable with `const` */
 ```
@@ -31,7 +31,7 @@ You have to initiate the value. */
 
 ```js
 let currentJob;
-// at least you don't get error. 
+// at least you don't get an error. 
 ```
 
 
@@ -40,7 +40,7 @@ let currentJob;
 
 
 
-**Never use `var`**
+### **Never use `var`**
 
 
 
