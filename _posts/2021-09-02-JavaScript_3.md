@@ -40,7 +40,9 @@ let currentJob;
 
 
 
-### **Never use `var`**
+## Never use `var`
 
 
+
+Just don't
 

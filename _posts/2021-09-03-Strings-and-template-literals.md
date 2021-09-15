@@ -37,7 +37,7 @@ So I recommend to use **backtick (`)**.
 const oulicoNew = `I'm ${firstName}, a  ${thisYear - birthYear} years old ${job}!`
 ```
 
-Or, you can do like this. Rememever, you have to use **backticks** for it.
+Or, you can do like this. Remember, you have to use **backticks** for it.
 
 
 
