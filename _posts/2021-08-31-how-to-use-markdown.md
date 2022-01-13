@@ -207,7 +207,7 @@ _Italic_
 ``` 
 Type1(To create a link in `Link text`) : [Google](https://google.com "tooltip when you hover over")
 Type2(To create a link exposing the URL) : <https://theorydb.github.io>
-Type3(a link to a paragraprh in the article) : [Markdown Syntax 1 (Basic)](#markdown-syntax-1-basic)
+Type3(a link to a paragraph in the article) : [Markdown Syntax 1 (Basic)](#markdown-syntax-1-basic)
 ```
 
 ---

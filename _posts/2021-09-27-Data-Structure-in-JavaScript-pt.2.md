@@ -66,7 +66,7 @@ console.log(oulico.lastName);
 
 
 
-![image-20211113144516324](../assets/img/2021-09-27/image-20211113144516324.png)
+![image-20211113144516324](/assets/img/2021-09-27/image-20211113144516324.png)
 
 
 
@@ -112,7 +112,7 @@ console.log(oulico.'last'+ nameKey);
 
 #### Result
 
-![image-20211113150153614](../assets/img/2021-09-27/image-20211113150153614.png)
+![image-20211113150153614](/assets/img/2021-09-27/image-20211113150153614.png)
 
 
 

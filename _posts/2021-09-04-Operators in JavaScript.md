@@ -20,24 +20,24 @@ Operators in Javascript
 
 
 
-| Assignment operators | **JavaScript** |
-| -------------------- | -------------- |
-| Equal                | `=`            |
-| x = x + y            | x `+=` y       |
-| x = x - y            | x `-=` y       |
-| x = x * y            | x `*=` y       |
-| x = x / y            | x `/=` y       |
-| x = x + 1            | `++` x         |
-| x = x - 1            | `--`x          |
+| Assignment operators | JavaScript |
+| -------------------- | ---------- |
+| Equal                | `=`        |
+| x = x + y            | x `+=` y   |
+| x = x - y            | x `-=` y   |
+| x = x * y            | x `*=` y   |
+| x = x / y            | x `/=` y   |
+| x = x + 1            | `++` x     |
+| x = x - 1            | `--`x      |
 
  
 
-| Comparison operators | **JavaScript** |
-| -------------------- | -------------- |
-| ﹥                   | >              |
-| ﹤                   | <              |
-| ≧                    | >=             |
-| ≦                    | <=             |
+| Comparison operators | JavaScript |
+| -------------------- | ---------- |
+| ﹥                   | >          |
+| ﹤                   | <          |
+| ≧                    | >=         |
+| ≦                    | <=         |
 
 > With comparison operators, you'll get a value holding boolean which means `true` or `false`.
 

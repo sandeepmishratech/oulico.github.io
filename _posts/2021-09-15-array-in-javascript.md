@@ -109,3 +109,18 @@ friends = ['Bob', 'Alice']; // this is illegal
 
 **You cannot change the entire of the array**.
 
+
+
+``` js
+const bodyWeights = [67, 55, 80];
+const gainedWeights = [1, 2, 3];
+
+console.log(bodyWeights + gainedWeights); // this doesn't work
+
+console.log(bodyWeights[0] + gainedWeights[0],bodyWeights[1] + gainedWeights[1],bodyWeights[2] + gainedWeights[2],); // you should do this separately.
+```
+
+
+
+__You cannot operate the entire of the array. The operation should be done with actual values, separately.__
+
