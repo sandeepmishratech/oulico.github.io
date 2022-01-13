@@ -32,7 +32,7 @@ Loop has 3 parts;
 
 3. Increasing amount of counter
 
-![Screen Shot 2022-01-13 at 5.28.35 PM](../assets/img/2022-01-13-Iteration-the-For-Loop/Screen Shot 2022-01-13 at 5.28.35 PM.png)
+![Screen Shot 2022-01-13 at 5.28.35 PM](/assets/img/2022-01-13-Iteration-the-For-Loop/Screen Shot 2022-01-13 at 5.28.35 PM.png)
 
 
 
@@ -121,5 +121,5 @@ for (let i = 0; i < oulico.length; i++) {
 
 ### result
 
-![image-20220113180540176](../assets/img/2022-01-13-Iteration-the-For-Loop/image-20220113180540176.png)
+![image-20220113180540176](/assets/img/2022-01-13-Iteration-the-For-Loop/image-20220113180540176.png)
 
