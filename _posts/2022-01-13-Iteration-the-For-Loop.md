@@ -1,10 +1,10 @@
-~~~
+---
 layout: post
 title: "Iteration: the For Loop"
 date: 2022-01-13 17:36:50 +0300
 categories: Notes-JavaScript
 tags: Notes JavaScript Data_structure Loop iteration for 
-~~~
+---
 
 
 
