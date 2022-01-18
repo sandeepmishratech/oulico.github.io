@@ -12,15 +12,11 @@ tags: Notes JavaScript Data_structure Loop iteration for
 
 
 
-Loop allows us to automate tasks.
-
-Let's learn 'The for loop'
-
 
 
 ## 1. Basic
 
-Loop has 3 parts;
+For Loop has 3 parts;
 
 
 
