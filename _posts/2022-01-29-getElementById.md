@@ -3,7 +3,7 @@ layout: post
 title: "Difference between querySelector and getElementById"
 date: 2022-01-29 10:47:00 +0300
 categories: Notes-JavaScript
-tags: Notes JavaScript 
+tags: Notes JavaScript querySelector getElementById
 ---
 
 
@@ -27,4 +27,16 @@ const score0 = document.getElementById(`score--0`);
 
 //they're same but the latter is faster than the former.
 ```
+
+
+
+⚠︎ Just remember that when we use query selector,
+
+we need an actual selector.
+
+( you write `#` when you are using `querySelector`.)
+
+
+
+
 
