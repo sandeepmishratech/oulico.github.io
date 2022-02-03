@@ -52,3 +52,13 @@ tags: VSC
 | Select **next occurence of word** under cursor | `cmd` + `D`                 |
 | go back to the previous cursor state(undo)     | `cmd` + `U`                 |
 
+
+
+## Window control
+
+| what for              | Key         |
+| --------------------- | ----------- |
+| split window          | `cmd` + `\` |
+| hide sidebar          | `cmd` + `b` |
+| open / close terminal | `ctrl`  + ` |
+
