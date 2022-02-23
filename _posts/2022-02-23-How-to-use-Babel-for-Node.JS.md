@@ -62,7 +62,7 @@ Make `script` in `package.json`
 
 
 
-Now you can simply execute node by typing this command in terminal:
+Now you can simply execute Babel by typing this command in terminal:
 
 ```shell
 npm run dev
