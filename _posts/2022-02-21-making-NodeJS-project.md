@@ -29,7 +29,7 @@ code /workplace/newproject
 
 And type this in terminal again
 
-```she
+```shell
 git init
 ```
 
@@ -41,7 +41,7 @@ Make a repository on GitHub and copy the URL.
 
 And paste it next to `git remote add origin` :
 
-```she
+```shell
 git remote add origin YOURURL
 ```
 
