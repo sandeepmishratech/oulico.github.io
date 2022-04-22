@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 클린코드 TIL-1 
+title: CleanCode TIL-1 
 date: 2022-04-22 17:45:50 +0900
 categories: Book_클린코드
 tags: BOOK 클린코드 코딩 개발자 노마드북클럽 노개북
@@ -8,11 +8,7 @@ tags: BOOK 클린코드 코딩 개발자 노마드북클럽 노개북
 
 TIL 노마드 개발자 북클럽 - `클린코드: 애자일 소프트웨어 장인정신` 읽기 챌린지
 
-![KakaoTalk_Photo_2022-04-22-19-35-48](/assets/img/2022-04-22-%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3-TIL-1/KakaoTalk_Photo_2022-04-22-19-35-48.jpeg)
-
-
-
-
+![KakaoTalk_Photo_2022-04-22-19-35-48](../assets/img/2022-04-22-CleanCode-TIL-1/KakaoTalk_Photo_2022-04-22-19-35-48.jpeg)
 
 자바는 전혀 모르는 데다, 코딩 스타일에 대해 생각하기에는 아직 나의 실력이 너무 미천하기 때문에
 
