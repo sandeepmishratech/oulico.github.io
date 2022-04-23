@@ -68,18 +68,31 @@ tags: BOOK 클린코드 코딩 개발자 노마드북클럽 노개북
 ## **더 알아보기**
 
 ```
-르블랑의 법칙
-보이스카우트 원칙
-TDD
-TPM
-Lean
-스크럼
-애자일
+르블랑의 법칙 : "Later equals Never."
+보이스카우트 원칙 : "Always leave the code better than you found it"
+
+[제조업 메타포들]
+TPM : an approach to equipment maintenance that aims to achieve a perfect production process by increasing productivity, efficiency, and safety. The three goals of TPM are zero unplanned failures, zero product defects, and zero accidents. 
+Lean : 낭비를 발견하고 제거함으로써 어떻게 고객에게 가치를 빠르게 제공할 수 있을 것인가에 대한 생각이자 사고방식.
+
+[개발방법론]
+TDD : Test Driven Development의 약자로 '테스트 주도 개발'이라고 한다. 반복 테스트를 이용한 소프트웨어 방법론으로 작은 단위의 테스트 케이스를 작성하고 이를 통과하는 코드를 추가하는 단계를 반복하여 구현한다.
+스크럼 : 소규모의 다기능팀이 제품 개발을 완성하기 위해 스프린트라고 불리는 업무 주기를 반복한다. 이 팀은 제품 책임자가 관리하는 '해야 할 일들의 목록(product backlog)'에서 '스프린트 동안 해야하는 일들(sprint backlog)'을 스스로 결정하고 완수하여 매 스프린트마다 결과물(increment)을 산출해낸다. 스크럼 마스터는 팀이 과제를 완수할 수 있도록 필요한 자원을 지원하거나 장애 요소를 제거한다.
+애자일 : 작동하는 소프트웨어의 작은 구성요소를 신속하게 제공하여 고객의 만족도를 개선. 
+칸반 : 칸반은 팀이 수행해야 하는 업무와 각 팀원이 맡을 수 있는 작업량 간에 균형을 맞추는 수단입니다. 칸반 프레임워크는 업무 항목을 제품 백로그에서 안정적인 작업 흐름으로 “끌어올” 수 있는 지속적인 개선 철학을 기반으로 한다. 
 ```
 
 
 
+## 참고
 
+[애자일](https://www.redhat.com/ko/devops/what-is-agile-methodology)
+
+[칸반](https://asana.com/ko/resources/what-is-kanban)
+
+[Lean](https://rnder.tistory.com/27)
+
+[TPM](https://www.safeopedia.com/definition/778/total-productive-maintenance-tpm)
 
 
 
@@ -90,5 +103,6 @@ Lean
 ## 오늘 읽은 다른사람의 TIL
 
 - layla님의 [TIL](https://nomadcoders.co/community/thread/4363)
+-  [greenideology](https://velog.io/@chillihc/Clean-Code-클린-코드-Day-1)[TIL](https://velog.io/@chillihc/Clean-Code-클린-코드-Day-1)
 
  
