@@ -69,15 +69,11 @@ tags: BOOK 클린코드 코딩 개발자 노마드북클럽 노개북
 
 
 
+## 참고
 
+- [AOP정의 및 용어정리](https://dongmin1994.tistory.com/16)
 
-### 참고
-
-###  
-
-[AOP정의 및 용어정리](https://dongmin1994.tistory.com/16)
-
-[What is Component-Oriented Programming (COP)?](https://betterprogramming.pub/what-is-component-oriented-programming-cop-10b32ae1fa1c)
+- [What is Component-Oriented Programming (COP)?](https://betterprogramming.pub/what-is-component-oriented-programming-cop-10b32ae1fa1c)
 
 
 
