@@ -21,7 +21,7 @@ tags: Vscode Prettier
 
 ## 문제 상황
 
-![image-20220510184236056](/assets/img/2022-05-10-prettier-hack-붙여넣기한-라인이-깨질-때/image-20220510184236056.png)
+![image-20220510184236056](/assets/img/2022-05-10-prettier-hack-when-prettier-breaks-lines/image-20220510184236056.png)
 
 이렇게 여러줄의 문장으로 구성된 여러개의 문단을 복사 붙여넣기 한 뒤,([사용한 텍스트 소스](https://n.news.naver.com/mnews/article/014/0004831242?sid=101))
 
@@ -29,7 +29,7 @@ tags: Vscode Prettier
 
 
 
-![image-20220510184504278](/assets/img/2022-05-10-prettier-hack-붙여넣기한-라인이-깨질-때/image-20220510184504278.png)
+![image-20220510184504278](/assets/img/2022-05-10-prettier-hack-when-prettier-breaks-lines/image-20220510184504278.png)
 
 
 
@@ -37,7 +37,7 @@ tags: Vscode Prettier
 
 
 
-![image-20220510184555476](/assets/img/2022-05-10-prettier-hack-붙여넣기한-라인이-깨질-때/image-20220510184555476.png)
+![image-20220510184555476](/assets/img/2022-05-10-prettier-hack-when-prettier-breaks-lines/image-20220510184555476.png)
 
 
 
@@ -71,7 +71,7 @@ tags: Vscode Prettier
 
 
 
-![image-20220510185030018](/assets/img/2022-05-10-prettier-hack-붙여넣기한-라인이-깨질-때/image-20220510185030018.png)
+![image-20220510185030018](/assets/img/2022-05-10-prettier-hack-when-prettier-breaks-lines/image-20220510185030018.png)
 
 
 
@@ -81,7 +81,7 @@ tags: Vscode Prettier
 
 
 
-![image-20220510185158577](/assets/img/2022-05-10-prettier-hack-붙여넣기한-라인이-깨질-때/image-20220510185158577.png)
+![image-20220510185158577](/assets/img/2022-05-10-prettier-hack-when-prettier-breaks-lines/image-20220510185158577.png)
 
 
 

@@ -37,7 +37,7 @@ border-box가 무엇인지에 대해서 좀 더 자세히 알아보자
 
 ## Default (Border-box)
 
-![image-20220510102400349](/assets/img/2022-05-10-Content-box,-border-box,-padding-box%E1%84%8B%E1%85%B4-%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%B5/image-20220510102400349.png)
+![image-20220510102400349](/assets/img/2022-05-10-Content-box-border-box-padding-box/image-20220510102400349.png)
 
 
 
@@ -49,13 +49,13 @@ border-box가 무엇인지에 대해서 좀 더 자세히 알아보자
 
 ## Padding-box
 
-![](/assets/img/2022-05-10-Content-box,-border-box,-padding-box%E1%84%8B%E1%85%B4-%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%B5/image-20220510102255389.png)
+![](/assets/img/2022-05-10-Content-box-border-box-padding-box/image-20220510102255389.png)
 
 
 
 ## Content-box
 
-![image-20220510102529397](/assets/img/2022-05-10-Content-box,-border-box,-padding-box%E1%84%8B%E1%85%B4-%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%B5/image-20220510102529397.png)
+![image-20220510102529397](/assets/img/2022-05-10-Content-box-border-box-padding-box/image-20220510102529397.png)
 
 
 
