@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CSS hack: outline
+title: CSS-outline
 date: 2022-05-10 12:16:50 +0900
 categories: CSS
 tags: CSS hack
