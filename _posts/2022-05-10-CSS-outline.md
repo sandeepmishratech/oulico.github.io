@@ -17,7 +17,7 @@ Css 작성의 console.log, outline!
 
 
 
-## 필기
+## outline을 써야하는 이유
 
 ![border:1px solid red is the console.log for me in css 🤣 - DEV Community](https://dev.to/social_previews/comment/264160.png)
 
