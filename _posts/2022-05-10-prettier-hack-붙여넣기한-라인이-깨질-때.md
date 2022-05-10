@@ -1,6 +1,6 @@
 ---
 layout: post
-title: prettier hack: 붙여넣기한 라인이 깨질 때
+title: prettier hack 붙여넣기한 라인이 깨질 때
 date: 2022-05-10 18:00:50 +0900
 categories: Configures_and_Hacks
 tags: Vscode Prettier
