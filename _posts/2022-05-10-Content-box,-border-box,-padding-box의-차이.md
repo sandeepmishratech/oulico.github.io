@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Content box, border box, padding box의 차이
+title: Content box과 border box과 padding box의 차이
 date: 2022-05-10 10:00:50 +0900
 categories: HTML_심화
 tags: HTML  
-
 ---
 
 Content box, border box, padding box의 차이는?
@@ -61,8 +60,6 @@ border-box가 무엇인지에 대해서 좀 더 자세히 알아보자
 
 
 
-
-## 
 
 ## 참고 
 
